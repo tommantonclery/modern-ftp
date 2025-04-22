@@ -1,0 +1,5 @@
+node_modules/
+apps/sftp-service/node_modules/
+*.pem
+*.key
+id_rsa*
