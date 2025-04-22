@@ -44,7 +44,7 @@ Run each package individually:
 ### 🖥 Start the Web Frontend
 
 ```bash
-cd apps/web
+cd apps/modern-ftp
 npm run dev
 ```
 
