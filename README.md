@@ -92,4 +92,4 @@ node index.js
 
 ## 📝 License
 
-MIT © 2025 tommantonclery#
+MIT © 2025 tommantonclery
